@@ -1,0 +1,10 @@
+[
+    {
+        "displayName": "Steven",
+        "vcard": "BEGIN:VCARD\nVERSION:3.0\nFN:Steven\nN:Steven;;;\nTEL;waid=6285763590930:6285763590930\nEMAIL;TYPE=WORK:si797410@gmail.com\nADR;TYPE=HOME:;;11 Naitōmachi;Shinjuku City;Tokyo 160-0014;Jepang\nURL;TYPE=WORK:Tidak Tersedia\nORG:Science, Technology, Engineering\nTITLE:Science, Technology, Engineering\nNOTE:KodeKu Berjalan, MimpiKu Menjadi Nyata.\nEND:VCARD"
+    },
+    {
+        "displayName": "Mora AI",
+        "vcard": "BEGIN:VCARD\nVERSION:3.0\nFN:Mora AI\nN:Mora;;;\nTEL;waid=:66809623685\nEMAIL;TYPE=WORK:mora.ai@proton.me\nADR;TYPE=HOME:;;123 Wonderland Ave;Fantasy City;Dreamland 0000;Neverland\nURL;TYPE=WORK:https://www.moraai.my.id\nORG:AI Enthusiast\nTITLE:Assistant\nNOTE:Selalu senang membantu Kakak! Jangan sungkan untuk menghubungi Mora ya! 💖✨\nEND:VCARD"
+    }
+]
