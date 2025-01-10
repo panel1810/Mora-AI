@@ -15,7 +15,7 @@
   "author": "Khalid",
   "license": "MIT",
   "dependencies": {
-    "@whiskeysockets/baileys": "github:@aerovoid4/Baileys",
+    "@whiskeysockets/baileys": "latest",
     "@adiwajshing/keyed-db": "^0.2.4",
     "@hapi/boom": "^10.0.1",
     "@vitalets/google-translate-api": "^8.0.0",
